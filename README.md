@@ -221,4 +221,4 @@ Unreal Kart is offered as a complete free version, providing all features and up
 Ready to hit the tracks? Download Unreal Kart now and unleash your racing skills today!
 
 ---
-**Last updated:** 2026-10-29 16:43:36 UTC
+**Last updated:** 2026-10-29 21:38:39 UTC
